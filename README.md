@@ -46,7 +46,6 @@ Currently learning more about **backend architecture, database optimization, and
 ### Other
 - Python
 - React
-- Next.js
 
 ---
 
