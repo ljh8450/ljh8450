@@ -57,6 +57,7 @@ Backend development for a refrigerator food management service.
 - Implemented member, notification, and food management APIs
 - Designed database schema and handled backend logic
 - Experienced service deployment on AWS
+- Repo: https://github.com/IT-Cotato/12th-Naengjango-BE
 
 ---
 
@@ -66,6 +67,7 @@ Backend project for exploring and managing benefit information.
 - Built REST APIs using **Spring Boot + MyBatis**
 - Designed relational database schema
 - Implemented backend service logic and data flow
+- Repo: https://github.com/BenePicker/BenePicker
 
 ---
 
@@ -75,6 +77,7 @@ An AI Tamagotchi service where a virtual pet evolves through conversation with u
 - Designed domain structure for conversation-based interaction
 - Implemented backend logic for AI communication
 - Focused on user interaction and service concept
+- Repo: https://github.com/ljh8450/AnimAI
 
 ---
 
