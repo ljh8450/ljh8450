@@ -18,6 +18,10 @@ Currently learning more about **backend architecture, database optimization, and
 
 # 📊 My Stats
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/ljh8450"/>
+</a>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ljh8450&show_icons=true&theme=default)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljh8450)](https://solved.ac/profile/ljh8450)
