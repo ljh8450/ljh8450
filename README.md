@@ -55,6 +55,17 @@ Currently learning more about **backend architecture, database optimization, and
 
 # 📌 Projects
 
+## 📚 ChaekList
+Full-stack web app for managing and organizing book-related information.
+
+- Built frontend UI using React
+- Developed backend APIs using Spring Boot
+- Structured the project with separate frontend/ and backend/ modules
+- Implemented data flow between client and server for core app features
+- Repo: https://github.com/ljh8450/ChaekList
+
+---
+
 ## 🧊 Naengjango
 Backend development for a refrigerator food management service.
 
@@ -73,15 +84,6 @@ Backend project for exploring and managing benefit information.
 - Implemented backend service logic and data flow
 - Repo: https://github.com/BenePicker/BenePicker
 
----
-
-## 🐣 AnimAI
-An AI Tamagotchi service where a virtual pet evolves through conversation with users.
-
-- Designed domain structure for conversation-based interaction
-- Implemented backend logic for AI communication
-- Focused on user interaction and service concept
-- Repo: https://github.com/ljh8450/AnimAI
 
 ---
 
