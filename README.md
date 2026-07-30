@@ -132,4 +132,4 @@ https://github.com/BenePicker/BenePicker
 # 📫 Contact
 
 * GitHub: https://github.com/ljh8450
-* Email: [ljh8450@ajou.ac.kr](mailto:ljh8450@ajou.ac.kr)
+* Email: [dev.miniberry@gmail.com](mailto:dev.miniberry@gmail.com)
